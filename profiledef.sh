@@ -19,4 +19,5 @@ file_permissions=(
   ["/etc/shadow"]="0:0:0400"
   ["/etc/gshadow"]="0:0:0400"
   ["/etc/skel/.config/i3/bin/autostart.sh"]="0:0:755"
+  ["/usr/local/bin/xinput_calibrator"]="0:0:755"
 )
