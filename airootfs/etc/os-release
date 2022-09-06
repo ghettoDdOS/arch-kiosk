@@ -1,0 +1,13 @@
+NAME="ArchKiosk"
+PRETTY_NAME="ArchKiosk"
+ID=arch-kiosk
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://github.com/ghettoDdOS/arch-kiosk/"
+DOCUMENTATION_URL="https://github.com/ghettoDdOS/arch-kiosk/"
+SUPPORT_URL="https://github.com/ghettoDdOS/arch-kiosk/"
+BUG_REPORT_URL="https://github.com/ghettoDdOS/arch-kiosk/issues"
+LOGO=arch
+IMAGE_ID=arch-kiosk
+IMAGE_VERSION=2022.09.06
